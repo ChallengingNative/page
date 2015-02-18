@@ -155,6 +155,11 @@ li {
     margin-right: 10px;
 }
 
+
+.authors a {
+    color: #333333;
+}
+
 .nth-author {
     margin-bottom: 30px;
 }
